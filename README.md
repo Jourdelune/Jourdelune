@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Jourdelune-->
+<!-- ## 👋 Hey there! I'm Jourdelune-->
 
 ### 👨🏻‍💻 & nbsp; About me
 
