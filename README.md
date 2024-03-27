@@ -2,11 +2,23 @@
 
 ### 👨🏻‍💻 About me
 
+I'm jourdelune, a 18 years old passionate computer science student based in France. My journey revolves around delving into the realms of Deep Learning, Discord, and beyond.
 
-🎓 I have as a project to orient myself in computer science. 
+### Projects ✨
 
-⚗️ I want to make a open source translation library and a performant language detector for Interaction Bot.
+Explore my projects on [Huggingface Profile here](https://huggingface.co/Jour), where I'm currently immersed in Deep Learning endeavors. Here are some highlights:
 
-✍️ During my free time, I develop sites, discord bots in python and use Javascript. 
+- [InteractionBot](https://interaction-bot.com), a translation discord bot that is invited in +35,000 servers on Discord.
+- [Language Detector](https://github.com/Interaction-Bot/LanguageDetection), a python module that detects the language of a text, read the medium article [here](https://medium.com/@jourdelune863/improving-language-detection-for-chat-discord-b148dfacc2e5).
+- [Symphonia](https://github.com/Jourdelune/Symphonia), an another discord music bot that was on 1400 discord servers (discontinued).
+- [Transformer](https://github.com/Jourdelune/Transformer), an implementation of the paper "Attentions is all you need".
+- [ChangeTonDns](https://changetondns.fr/), an initiative to encourage people to change their DNS.
+- and more soon!
 
+### Skills
+I use Python and Vue.js, SQL for my project. I'm also familiar with Flask, FastAPI, PyTorch, and Hugging Face, and I want to learn some new cool stuff!
+
+### Contact me 🤝
+
+I'm available on Discord (triwine) and Twitter.
 [![Jourdelune profile views](https://u8views.com/api/v1/github/profiles/64205064/views/day-week-month-total-count.svg)](https://u8views.com/github/Jourdelune)
