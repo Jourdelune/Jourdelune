@@ -8,9 +8,9 @@ I'm jourdelune, a 18 years old passionate computer science student based in Fran
 
 Explore my projects on [Huggingface Profile here](https://huggingface.co/Jour), where I'm currently immersed in Deep Learning endeavors. Here are some highlights:
 
-- [InteractionBot](https://interaction-bot.com), a translation discord bot that is invited in +35,000 servers on Discord.
+- [InteractionBot](https://interaction-bot.com), a translation discord bot invited on more than 35,000 discord servers.
 - [Language Detector](https://github.com/Interaction-Bot/LanguageDetection), a python module that detects the language of a text, read the medium article [here](https://medium.com/@jourdelune863/improving-language-detection-for-chat-discord-b148dfacc2e5).
-- [Symphonia](https://github.com/Jourdelune/Symphonia), an another discord music bot that was on 1400 discord servers (discontinued).
+- [Symphonia](https://github.com/Jourdelune/Symphonia), another discord music bot that was on 1400 discord servers (discontinued).
 - [Transformer](https://github.com/Jourdelune/Transformer), an implementation of the paper "Attentions is all you need".
 - [ChangeTonDns](https://changetondns.fr/), an initiative to encourage people to change their DNS.
 - and more soon!
