@@ -16,7 +16,7 @@ Explore my projects on [Huggingface Profile here](https://huggingface.co/Jour), 
 - and more soon!
 
 ### Skills
-I use Python and Vue.js, SQL for my project. I'm also familiar with Flask, FastAPI, PyTorch, and Hugging Face, and I want to learn some new cool stuff!
+I use Python, Vue.js and SQL for my project. I'm also familiar with Flask, FastAPI, PyTorch, and Hugging Face, and I want to learn some cool new technologies!
 
 ### Contact me 🤝
 
