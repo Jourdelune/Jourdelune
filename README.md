@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About me
 
-I'm jourdelune, a 18 years old passionate computer science student based in France. My journey revolves around delving into the realms of Deep Learning, Discord, and beyond.
+I'm jourdelune, a 19 years old passionate computer science student based in France. My journey revolves around delving into the realms of Deep Learning, Discord, and beyond.
 
 ### Projects ✨
 
