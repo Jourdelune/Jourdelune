@@ -13,7 +13,7 @@ Also, here is a list of my projects:
 - [Symphonia](https://github.com/Jourdelune/Symphonia), another discord music bot that was on 1400 discord servers (discontinued).
 - [Transformer](https://github.com/Jourdelune/Transformer), an implementation of the paper "Attentions is all you need".
 - [ChangeTonDns](https://changetondns.fr/), an initiative to encourage people to change their DNS.
-- and more soon!
+- and more (see pinned repo)!
 
 ### Skills
 I use Python, Vue.js and SQL for my project. I'm also familiar with Flask, FastAPI, PyTorch, and Hugging Face, and I want to learn some cool new technologies!
