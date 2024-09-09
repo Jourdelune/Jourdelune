@@ -12,7 +12,7 @@ Also, here is a list of my projects:
 - [Language Detector](https://github.com/Interaction-Bot/LanguageDetection), a python module that detects the language of a text, read the medium article [here](https://medium.com/@jourdelune863/improving-language-detection-for-chat-discord-b148dfacc2e5).
 - [Symphonia](https://github.com/Jourdelune/Symphonia), another discord music bot that was on 1400 discord servers (discontinued).
 - [Transformer](https://github.com/Jourdelune/Transformer), an implementation of the paper "Attentions is all you need".
-- [ChangeTonDns](https://changetondns.fr/), an initiative to encourage people to change their DNS.
+- [WaveAI](https://github.com/WaveGenAI/WaveAI), a transformer model that can generate music from a prompt.
 - and more (see pinned repo)!
 
 ### Skills
