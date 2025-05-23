@@ -22,4 +22,4 @@ I use Python, Vue.js and SQL for my project. I'm also familiar with Flask, FastA
 
 I'm available on Discord (triwine) and Twitter.
 
-[![Jourdelune profile views](https://u8views.com/api/v1/github/profiles/64205064/views/day-week-month-total-count.svg)](https://u8views.com/github/Jourdelune)
+[![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=YL1o0po8SfvM1lPBQrnrmKCZCNO0raYx_L9XjiUaQmg&cl=ffffff)](https://clustrmaps.com/site/1c674)
