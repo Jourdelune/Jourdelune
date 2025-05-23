@@ -22,4 +22,4 @@ I use Python, Vue.js and SQL for my project. I'm also familiar with Flask, FastA
 
 I'm available on Discord (triwine) and Twitter.
 
-[![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=YL1o0po8SfvM1lPBQrnrmKCZCNO0raYx_L9XjiUaQmg&cl=ffffff)](https://clustrmaps.com/site/1c674)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jourdelune&show_icons=true&locale=en" alt="jourdelune" /></p>
