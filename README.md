@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About me
 
-A 20-year-old computer science student based in France. My journey revolves around delving into the world of Deep Learning, Tech, and beyond.
+A 21-year-old computer science student based in France. My journey revolves around delving into the world of Deep Learning, Tech, and beyond.
 
 ### Projects ✨
 
